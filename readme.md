@@ -62,7 +62,7 @@
 <br/>
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_4_advancing_CSS)
 <br/>
-[Course]([Course](https://cursos.alura.com.br/course/html5-css3-avancando-css))
+[Course](https://cursos.alura.com.br/course/html5-css3-avancando-css)
 
 <br/>
 
