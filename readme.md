@@ -11,7 +11,9 @@
 [Code](part_1)
 
 <br/>
+
 <br/>
+
 <br/>
 
 <img align="left" width="20%" src='https://github.com/alura-dive-enock/certificates/blob/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_2_Positioning_Lists_and_Navigation/assets/icon_alura_HTML5%20e%20CSS3%20parte%202:%20posicionamento,%20listas%20e%20navega%C3%A7%C3%A3o.png?raw=true' />
@@ -25,7 +27,9 @@
 [Code](part_2)
 
 <br/>
+
 <br/>
+
 <br/>
 
 <img align="left" width="20%" src='https://github.com/alura-dive-enock/certificates/blob/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_3_Working_with_Forms_and_Tables/assets/icon_alura_HTML5%20e%20CSS3%20parte%203:%20trabalhando%20com%20formul%C3%A1rios%20e%20tabelas.png?raw=true' />
@@ -39,6 +43,8 @@
 [Code](part_3)
 
 <br/>
+
 <br/>
+
 <br/>
 
