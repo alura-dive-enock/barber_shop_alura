@@ -6,7 +6,7 @@
 
 [Course](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
 <br/>
-[About and certificate](link to certificate)
+[About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_1_Create_a_Web_Page)
 <br/>
 [Code](part_1)
 
@@ -19,7 +19,7 @@
 
 [Course](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
 <br/>
-[About and certificate](link to certificate)
+[About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_2_Positioning_Lists_and_Navigation)
 <br/>
 [Code](part_2)
 
