@@ -4,11 +4,11 @@
 
 ## Course: HTML5 and CSS3 Part 1: Create a Web Page
 
-[Course](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
+[Code](part_1)
 <br/>
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_1_Create_a_Web_Page)
 <br/>
-[Code](part_1)
+[Course](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 ## Course: HTML5 and CSS3 Part 2: Positioning, Lists, and Navigation
 
-[Course](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
+[Code](part_2)
 <br/>
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_2_Positioning_Lists_and_Navigation)
 <br/>
-[Code](part_2)
+[Course](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
 
 <br/>
 
@@ -40,11 +40,11 @@
 
 ## Course: HTML5 and CSS3 Part 3: Working with Forms and Tables
 
-[Course](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas)
+[Code](part_3)
 <br/>
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/HTML_and_CSS/HTML5_and_CSS3_Part_3_Working_with_Forms_and_Tables)
 <br/>
-[Code](part_3)
+[Course](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas)
 
 <br/>
 
