@@ -1,4 +1,4 @@
-# Fist steps
+# Part 1
 
 
 ## Course: HTML5 and CSS3 Part 1: Create a Web Page
